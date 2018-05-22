@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Muhammad Mujtaba Nanji's Page
 
-You can use the [editor on GitHub](https://github.com/nanjimuhammed/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Muhammad loves visitors on his page! Muhammad created this page to let people know about himslef, his passions and goals, his hobbies, his past activities and accomplishments and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b> Muhammad </b> is an international student in Canada. Although he was born in Pakistan, Muhammad spent 18 years of his life in the Democratic Republic of Congo in the capital city of Kinshasa. He moved to Canada in 2016 to pursue furtehr udnergraduate studies. He is currently pursuing a Bachelor of Commerce with a specialization in Business Technology Management at the Ted Rogers School of Management. Muhammad strives to take advantage of every oppurtunity he has and loves to be involved in teh community and most importantly, help others.
 
 I am not too sure how to edit text. Am I supposed to remove everything else and put my content? LETS SEE WHAT HAPPENS <b> Lets see if this bold stuff works </b>
 
@@ -13,9 +13,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# High School
+
+Muhammad joined The American School of Kinshasa (TASOK) in 2012 for his high school studies before he graduated in 2016 as the salutatorian of his class. Muhammad was part of many student clubs in school and was also very involved in the Kinshasa community. 
+
+## Undergraduate Studies
+
+As Muhammad joined Ryerson University, he was more than eager to do well in his studies and was also very excited to explore a new country and meet so many new people and get involved in a new community.
+
+### Future Goals and Ambitions
 
 - Bulleted
 - List
